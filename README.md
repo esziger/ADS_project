@@ -1,1 +1,1 @@
-# ADS_project
+# Applied Data Science project
